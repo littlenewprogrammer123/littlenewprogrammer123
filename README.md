@@ -120,6 +120,4 @@ I'm open to **full-time roles, contract work, and freelance projects** in React,
 
 📧 **vibinworkmail@gmail.com** | 📱 **+91 9150535712**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=littlenewprogrammer123&color=blue&style=flat-square&label=Profile+Views" />
-</p>
+

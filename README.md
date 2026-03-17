@@ -105,11 +105,15 @@ Full-stack booking platform with dynamic seat selection, user authentication, ro
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=littlenewprogrammer123&show_icons=true&theme=tokyonight" alt="Vibin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=littlenewprogrammer123&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Vibin's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlenewprogrammer123&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=littlenewprogrammer123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlenewprogrammer123&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 </p>
 
 ---
@@ -119,5 +123,3 @@ Full-stack booking platform with dynamic seat selection, user authentication, ro
 I'm open to **full-time roles, contract work, and freelance projects** in React, Spring Boot, Node.js, or Django.
 
 📧 **vibinworkmail@gmail.com** | 📱 **+91 9150535712**
-
-

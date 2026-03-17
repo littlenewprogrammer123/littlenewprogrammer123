@@ -105,7 +105,7 @@ Full-stack booking platform with dynamic seat selection, user authentication, ro
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=littlenewprogrammer123&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Vibin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=littlenewprogrammer123&show_icons=true&theme=tokyonight&hide_border=true" alt="Vibin's GitHub Stats" />
 </p>
 
 <p align="center">
